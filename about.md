@@ -5,10 +5,11 @@ permalink: /about/
 ---
 
 My Name is **Sean Kwon**  
+I studied at New York University.  
 I am a Software Engineer with an expertise in *Javascript*.  
 I prefer Reactjs and Redux.  
 But I also like Ruby, with and without the Rails. I can wield Java and
-Python as well.
+Python as well.  
 
 I run at 8pm exclusively, before late dinner and with little to no food
 in my stomach.  
