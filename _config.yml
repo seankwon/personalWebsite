@@ -4,12 +4,12 @@ title: "Sean"
 title2: "Kwon" # default: ""
 description: "Just another minimalist Jekyll theme that focuses on technical writing."
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://seankwon.github.io/personalSite # site url
-baseurl: "/personalSite" # apply repo name if use it under gh-pages branch
+url: http://seankwon.github.io/personalWebsite # site url
+baseurl: "/personalWebsite" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-90747189-1
-repo: http://github.com/seankwon/personalSite
+repo: http://github.com/seankwon/personalWebsite
 disqus_shortname: "seankwon"
 twitter_username: "hyuknhim"
 comments: false
