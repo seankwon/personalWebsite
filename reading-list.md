@@ -6,12 +6,8 @@ permalink: /reading-list/
 
 #I am currently reading:  
 
-1. [Patience with God: The Story of Zacchaeus Continuing with
-   Us](https://www.amazon.com/Patience-God-Story-Zacchaeus-Continuing/dp/0385524498/ref=sr_1_1?s=books&ie=UTF8&qid=1489272907&sr=1-1&keywords=patience+with+god)  
-2. [Stories of Your Life And
-   Others](https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122/ref=sr_1_1?s=books&ie=UTF8&qid=1489272947&sr=1-1&keywords=stories+of+your+life+and+others)
-3. [The Selected Poems by
-   A.R.Ammons](https://www.amazon.com/Selected-Poems-Expanded-R-Ammons/dp/0393303969/ref=sr_1_1?ie=UTF8&qid=1489273145&sr=8-1&keywords=selected+poems+a+r+ammons)
+1. [Rabbit
+   Redux](https://www.amazon.com/Rabbit-Redux-John-Updike/dp/0449911934)  
 
 #2017 thus far
 1. [Narrative of the Life of Frederick
@@ -24,3 +20,7 @@ permalink: /reading-list/
 5. [The Puttermesser
    Papers](https://www.amazon.com/Puttermesser-Papers-Novel-Cynthia-Ozick/dp/0679777393/ref=sr_1_1?ie=UTF8&qid=1489273169&sr=8-1&keywords=the+puttermesser+papers)
 6. [Javascript The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1489273432&sr=8-1&keywords=javascript+the+good+parts)
+7. [Stories of Your Life And
+Others](https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122/ref=sr_1_1?s=books&ie=UTF8&qid=1489272947&sr=1-1&keywords=stories+of+your+life+and+others)
+8. [Atlas of
+   Unknowns](https://www.amazon.com/Atlas-Unknowns-Vintage-Contemporaries-Tania/dp/0307389014)
